@@ -1,0 +1,10 @@
+C:\Users\alumno\source\repos\calculadorat\calculadorat\bin\Debug\netcoreapp3.0\calculadorat.exe
+C:\Users\alumno\source\repos\calculadorat\calculadorat\bin\Debug\netcoreapp3.0\calculadorat.deps.json
+C:\Users\alumno\source\repos\calculadorat\calculadorat\bin\Debug\netcoreapp3.0\calculadorat.runtimeconfig.json
+C:\Users\alumno\source\repos\calculadorat\calculadorat\bin\Debug\netcoreapp3.0\calculadorat.runtimeconfig.dev.json
+C:\Users\alumno\source\repos\calculadorat\calculadorat\bin\Debug\netcoreapp3.0\calculadorat.dll
+C:\Users\alumno\source\repos\calculadorat\calculadorat\bin\Debug\netcoreapp3.0\calculadorat.pdb
+C:\Users\alumno\source\repos\calculadorat\calculadorat\obj\Debug\netcoreapp3.0\calculadorat.AssemblyInfoInputs.cache
+C:\Users\alumno\source\repos\calculadorat\calculadorat\obj\Debug\netcoreapp3.0\calculadorat.AssemblyInfo.cs
+C:\Users\alumno\source\repos\calculadorat\calculadorat\obj\Debug\netcoreapp3.0\calculadorat.dll
+C:\Users\alumno\source\repos\calculadorat\calculadorat\obj\Debug\netcoreapp3.0\calculadorat.pdb

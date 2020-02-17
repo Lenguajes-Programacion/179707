@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadorat", "..\calculadorat\calculadorat\calculadorat.csproj", "{8AACE423-E24E-4F51-9CA2-2182535023A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AACE423-E24E-4F51-9CA2-2182535023A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AACE423-E24E-4F51-9CA2-2182535023A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AACE423-E24E-4F51-9CA2-2182535023A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AACE423-E24E-4F51-9CA2-2182535023A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC5C719-92D2-423C-B2C3-F723BB46F454}
+	EndGlobalSection
+EndGlobal
